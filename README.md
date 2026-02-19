@@ -30,8 +30,8 @@ AI융합 비즈니스포럼 강의 교안 및 영상 아카이브입니다.
 
 ## 🚀 AI 활용마스터 실전반
 
-| 기수 | 날짜 | 주요 내용 요약 | 교안 | 영상 |
-| :--- | :--- | :--- | :---: | :---: |
-| **제1기** | 2024.12.09 | 엑셀 매크로, 유튜브 API, GAS | - | [▶️](https://www.youtube.com/watch?v=8-5q1wXGzbY) |
-| **제2기** | 2025.06.08 | PDF 자동완성, 메일 발송 자동화 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/250608_AI%ED%99%9C%EC%9A%A9%EC%8B%A4%EC%A0%84%EB%B0%98_2%EA%B8%B0.pdf) | [▶️](https://www.youtube.com/watch?v=YtR5m6UMQwA) |
-| **제3기** | 2025.08.17 | n8n 자동화, 카카오톡 알림톡 연동 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/250817_AI%ED%99%9C%EC%9A%A9%EC%8B%A4%EC%A0%84%EB%B0%983%EA%B8%B0_n8n%20%EC%8B%A4%EC%8A%B5%EA%B5%90%EC%95%88.pdf) | [▶️](https://www.youtube.com/watch?v=7FaF8yJ_-WQ) |
+| 기수 | 강의명 | 날짜 | 주요 내용 요약 | 교안 | 영상 |
+| :--- | :--- | :--- | :--- | :---: | :---: |
+| **제1기** | AI 활용마스터 실전반 | 2024.12.09 | 엑셀 매크로, 유튜브 API, GAS | - | [▶️](https://www.youtube.com/watch?v=8-5q1wXGzbY) |
+| **제2기** | AI 활용마스터 실전반 |2025.06.08 | PDF 자동완성, 메일 발송 자동화 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/250608_AI%ED%99%9C%EC%9A%A9%EC%8B%A4%EC%A0%84%EB%B0%98_2%EA%B8%B0.pdf) | [▶️](https://www.youtube.com/watch?v=YtR5m6UMQwA) |
+| **제3기** | AI 활용마스터 실전반 |2025.08.17 | n8n 자동화, 카카오톡 알림톡 연동 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/250817_AI%ED%99%9C%EC%9A%A9%EC%8B%A4%EC%A0%84%EB%B0%983%EA%B8%B0_n8n%20%EC%8B%A4%EC%8A%B5%EA%B5%90%EC%95%88.pdf) | [▶️](https://www.youtube.com/watch?v=7FaF8yJ_-WQ) |
