@@ -1,30 +1,37 @@
-📚 AI-Lecture-Archive (기수순 정렬)
-🎓 AI융합전문가 과정 (1기 ~ 10기)
-기수	강의명	날짜	주요 내용 요약	자료
-제1기	기초과정_데이터분석	2023.09.17	Foundation Model, Octoparse/파이썬 크롤링 실습	📄 ▶️
-제1기	심화과정_데이터분석	2023.10.29	DIKW 피라미드, 머신러닝 분석 단계, 텍스트 마이닝	📄 ▶️
-제2기	기초과정_데이터분석	2023.11.26	Transformer 모델, 웹 기초(HTML/CSS/JS), 챗GPT 분석	📄 ▶️
-제2기	심화과정_데이터분석	2023.12.08	DIKW 피라미드, 깃허브 배포 이해, 개인 웹사이트 구축	📄 ▶️
-제3기	기초과정_데이터분석	2024.01.27	웹의 이해 (TCP/IP, HTTP), 프론트/백엔드 구분	📄 ▶️
-제3기	마스터과정_데이터분석	2024.03.02	경영정보시각화 시험 소개, 정적/동적 크롤링 차이	📄 ▶️
-제4기	베이직과정_데이터분석	2024.03.10	BigKinds 크롤링, DB 스키마 이해, 초간단 웹사이트	📄 ▶️
-제4기	마스터과정_데이터분석	2024.03.17	VSCode 파이썬 활용, 다음 뉴스 및 유튜브 댓글 크롤링	📄 ▶️
-제5기	베이직과정_데이터분석	2024.03.16	경영정보시각화, 뉴스 자동 크롤링, 웹 구조 이해	📄 ▶️
-제5기	마스터과정_데이터분석	2024.04.27	정적/동적 크롤링 시연, 머신러닝 데이터분석 지표	📄 ▶️
-제6기	입문과정_데이터분석	2024.05.05	Power BI, 딥페이크, 데이터베이스 구축 예시	📄 ▶️
-제6기	마스터과정_데이터분석	2024.06.02	OpenAI figure01 시청, 분류/회귀 분석 이해	📄 ▶️
-제7기	입문과정_데이터분석	2024.05.25	딥페이크 위험성, 데이터 모델링, 쿠팡 크롤링	📄 ▶️
-제7기	마스터과정_데이터분석	2024.06.22	챗GPT-4o 신기능 확인, RFM 분석 실습	📄 ▶️
-제8기	데이터분석_1	2024.07.28	Power BI 소개, DB 모델링 기초, 쿠팡 크롤링	📄 ▶️
-제8기	데이터분석_2	2024.08.18	AGI의 이해, 챗GPT-4o 활용 선형계획법/RFM 분석	📄 ▶️
-제9기	데이터분석_1	2024.09.29	터미널 모드 vs 윈도우 모드 비교, 쿠팡 댓글 크롤링	📄
-제9기	데이터분석_2	2024.10.27	척도의 개념, 머신러닝 5단계, 회귀/분류 분석 지표	📄
-제10기	데이터분석_1	2025.02.02	Foundation Model, 데이터 모델링, 챗GPT 활용 분석	📄
-제10기	데이터분석_2	2025.03.02	인터넷과 웹 구조, 척도의 이해, 분류/회귀 분석 실습	📄
-<br>
-🚀 AI 활용마스터 실전반
-기수	강의명	날짜	주요 내용 요약	자료
-제1기	AI 활용마스터 실전반	2024.12.09	엑셀 매크로, 유튜브 API 연동, Google Apps Script	▶️
-제2기	AI 활용마스터 실전반	2025.06.08	PDF 자동완성 및 메일 자동화, 파이썬 파일 구조 이해	📄 ▶️
-제3기	AI 활용마스터 실전반	2025.08.17	n8n 자동화 프로그램, 카카오톡 알림 메시지 연동	📄 ▶️
+# 📚 AI-Lecture-Archive
+AI융합 비즈니스포럼 강의 교안 및 영상 아카이브입니다.
 
+## 🎓 AI융합전문가 과정 (1기 ~ 10기)
+
+| 기수 | 강의명 | 날짜 | 주요 내용 요약 | 교안 | 영상 |
+| :--- | :--- | :--- | :--- | :---: | :---: |
+| **제1기** | 기초과정 | 2023.09.17 | Foundation Model, 크롤링 실습 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/230917_AI%EC%9C%B5%ED%95%A9%EC%A0%84%EB%AC%B8%EA%B0%80%EA%B8%B0%EC%B4%88%EA%B3%BC%EC%A0%95_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_v1.0.pdf) | [▶️](https://www.youtube.com/watch?v=bjrk-9-Q8XA) |
+| **제1기** | 심화과정 | 2023.10.29 | DIKW 피라미드, 머신러닝 분석 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/231029_AI%EC%9C%B5%ED%95%A9%EC%A0%84%EB%AC%B8%EA%B0%80%EC%8B%AC%ED%99%94%EA%B3%BC%EC%A0%95_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_v1.0.pdf) | [▶️](https://www.youtube.com/watch?v=1pAmJSdhWP0) |
+| **제2기** | 기초과정 | 2023.11.26 | Transformer, 웹 기초, GPT 분석 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/231126_AI%EC%9C%B5%ED%95%A9%EC%A0%84%EB%AC%B8%EA%B0%80%EA%B8%B0%EC%B4%88%EA%B3%BC%EC%A0%95_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_v1.0.pdf) | [▶️](https://www.youtube.com/watch?v=S53esevrQGw) |
+| **제2기** | 심화과정 | 2023.12.08 | 깃허브 배포, 개인 웹사이트 구축 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/231208_AI%EC%9C%B5%ED%95%A9%EC%A0%84%EB%AC%B8%EA%B0%80%EC%8B%AC%ED%99%94%EA%B3%BC%EC%A0%95_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_v1.0.pdf) | [▶️](https://www.youtube.com/watch?v=ryWau5Vdu-g) |
+| **제3기** | 기초과정 | 2024.01.27 | 웹의 이해, 프론트/백엔드 구분 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/240127_AI%EC%9C%B5%ED%95%A9%EC%A0%84%EB%AC%B8%EA%B0%80%EA%B8%B0%EC%B4%88%EA%B3%BC%EC%A0%95_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_v1.0.pdf) | [▶️](https://www.youtube.com/watch?v=iSIIRF5J6MQ) |
+| **제3기** | 마스터과정 | 2024.03.02 | 경영정보시각화, 정적/동적 크롤링 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/240302_AI%EC%9C%B5%ED%95%A93%EA%B8%B0_%EB%A7%88%EC%8A%A4%ED%84%B04%EC%B0%A8%EC%8B%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_v1.0.pdf) | [▶️](https://www.youtube.com/watch?v=S_MCU1KWYAU) |
+| **제4기** | 베이직과정 | 2024.03.10 | BigKinds 크롤링, DB 스키마 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/240310_AI%EC%9C%B5%ED%95%A94%EA%B8%B0_%EB%B2%A0%EC%9D%B4%EC%A7%81_4%EC%B0%A8%EC%8B%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_v1.0.pdf) | [▶️](https://www.youtube.com/watch?v=gmG4-REaD5Q) |
+| **제4기** | 마스터과정 | 2024.03.17 | 파이썬 뉴스 및 댓글 크롤링 실습 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/240317_AI%EC%9C%B5%ED%95%A94%EA%B8%B0_%EB%A7%88%EC%8A%A4%ED%84%B0_1%EC%B0%A8%EC%8B%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_v1.0.pdf) | [▶️](https://www.youtube.com/watch?v=XCD20qi6C0Y) |
+| **제5기** | 베이직과정 | 2024.03.16 | Power BI 소개, 뉴스 자동 크롤링 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/240316_AI%EC%9C%B5%ED%95%A95%EA%B8%B0_%EB%B2%A0%EC%9D%B4%EC%A7%812%EC%B0%A8%EC%8B%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_v1.0.pdf) | [▶️](https://www.youtube.com/watch?v=7bxB-2BODa4) |
+| **제5기** | 마스터과정 | 2024.04.27 | 정적/동적 크롤링, 머신러닝 지표 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/240427_AI%EC%9C%B5%ED%95%A95%EA%B8%B0_%EB%A7%88%EC%8A%A4%ED%84%B0_4%EC%B0%A8%EC%8B%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.pdf) | [▶️](https://www.youtube.com/watch?v=0yceKdOGWkw) |
+| **제6기** | 입문과정 | 2024.05.05 | 딥페이크 위험성, DB 구축 예시 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/240505_AI%EC%9C%B5%ED%95%A96%EA%B8%B0_%EC%9E%85%EB%AC%B84%EC%B0%A8%EC%8B%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_v1.0.pdf) | [▶️](https://www.youtube.com/watch?v=2ih4XvFORBc) |
+| **제6기** | 마스터과정 | 2024.06.02 | OpenAI figure01, 분류/회귀 분석 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/240602_AI%EC%9C%B5%ED%95%A96%EA%B8%B0_%EB%A7%88%EC%8A%A4%ED%84%B0_4%EC%B0%A8%EC%8B%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.pdf) | [▶️](https://www.youtube.com/watch?v=45d5kBT-MtY) |
+| **제7기** | 입문과정 | 2024.05.25 | 데이터 모델링, 쿠팡 크롤링 실습 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/240525_AI%EC%9C%B5%ED%95%A97%EA%B8%B0_%EC%9E%85%EB%AC%B84%EC%B0%A8%EC%8B%9C_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_v1.0.pdf) | [▶️](https://www.youtube.com/watch?v=9vknspdi1YQ) |
+| **제7기** | 마스터과정 | 2024.06.22 | GPT-4o 신기능, RFM 분석 실습 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/240622_AI%EC%9C%B5%ED%95%A97%EA%B8%B0_%EB%A7%88%EC%8A%A4%ED%84%B0_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.pdf) | [▶️](https://www.youtube.com/watch?v=ViS34btHcW4) |
+| **제8기** | 데이터분석 1 | 2024.07.28 | Power BI, DB 구축 예시 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/240728_AI%EC%9C%B5%ED%95%A9%EC%A0%84%EB%AC%B8%EA%B0%808%EA%B8%B0_4%EC%B0%A8%EC%8B%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.pdf) | [▶️](https://www.youtube.com/watch?v=yVNsowz4hZo) |
+| **제8기** | 데이터분석 2 | 2024.08.18 | AGI 이해, GPT-4o 데이터 분석 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/240818_AI%EC%9C%B5%ED%95%A9%EC%A0%84%EB%AC%B8%EA%B0%808%EA%B8%B0_7%EC%B0%A8%EC%8B%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.pdf) | [▶️](https://www.youtube.com/watch?v=0NShMIgffdY) |
+| **제9기** | 데이터분석 1 | 2024.09.29 | 터미널 vs 윈도우 모드 비교 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/240929_AI%EC%9C%B5%ED%95%A9%EC%A0%84%EB%AC%B8%EA%B0%809%EA%B8%B0_4%EC%B0%A8%EC%8B%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.pdf) | - |
+| **제9기** | 데이터분석 2 | 2024.10.27 | 머신러닝 5단계 필수 점검 요인 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/241027_AI%EC%9C%B5%ED%95%A9%0A%EC%A0%84%EB%AC%B8%EA%B0%809%EA%B8%B0_8%EC%B0%A8%EC%8B%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.pdf) | - |
+| **제10기** | 데이터분석 1 | 2025.02.02 | 챗GPT 활용 CNC 정밀가공 분석 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/250202_AI%EC%9C%B5%ED%95%A9%EC%A0%84%EB%AC%B8%EA%B0%8010%EA%B8%B0_4%EC%B0%A8%EC%8B%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.pdf) | - |
+| **제10기** | 데이터분석 2 | 2025.03.02 | 회귀분석 및 분석 결과 이해 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/250302_AI%EC%9C%B5%ED%95%A9%EC%A0%84%EB%AC%B8%EA%B0%8010%EA%B8%B0_8%EC%B0%A8%EC%8B%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.pdf) | - |
+
+<br>
+
+## 🚀 AI 활용마스터 실전반
+
+| 기수 | 날짜 | 주요 내용 요약 | 교안 | 영상 |
+| :--- | :--- | :--- | :---: | :---: |
+| **제1기** | 2024.12.09 | 엑셀 매크로, 유튜브 API, GAS | - | [▶️](https://www.youtube.com/watch?v=8-5q1wXGzbY) |
+| **제2기** | 2025.06.08 | PDF 자동완성, 메일 발송 자동화 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/250608_AI%ED%99%9C%EC%9A%A9%EC%8B%A4%EC%A0%84%EB%B0%98_2%EA%B8%B0.pdf) | [▶️](https://www.youtube.com/watch?v=YtR5m6UMQwA) |
+| **제3기** | 2025.08.17 | n8n 자동화, 카카오톡 알림톡 연동 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/250817_AI%ED%99%9C%EC%9A%A9%EC%8B%A4%EC%A0%84%EB%B0%983%EA%B8%B0_n8n%20%EC%8B%A4%EC%8A%B5%EA%B5%90%EC%95%88.pdf) | [▶️](https://www.youtube.com/watch?v=7FaF8yJ_-WQ) |
