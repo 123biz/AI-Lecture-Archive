@@ -1,7 +1,7 @@
 # 📚 AI-Lecture-Archive
 AI융합 비즈니스포럼 강의 교안 및 영상 아카이브입니다.
 
-> 💡 **Tip:** Notion을 통해 좀 더 깔끔한 화면으로 보고 싶다면 아래 버튼을 클릭하세요!
+> 💡 **Tip:** Notion을 통해 좀 더 자세한 내용을 깔끔한 화면으로 보고 싶다면 아래 버튼을 클릭하세요!
 
 > [![Notion](https://img.shields.io/badge/Notion_포트폴리오_보러가기-000000?style=for-the-badge&logo=notion&logoColor=white)](https://ruby-beard-167.notion.site/30b5123b4e30809fb1b8c286db34808c?v=30b5123b4e30809a999f000c015066cb)
 
