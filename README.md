@@ -42,7 +42,7 @@ AI융합 비즈니스포럼 강의 교안 및 영상 아카이브입니다.
 | **제2기** | AI 활용 데이터분석 | 2025.06.08 | • 챗GPT 활용 PDF 자동완성 및 메일 발송 자동화<br>• 파이썬 파일(.py)과 주피터 노트북(.ipynb) 차이 이해<br>• 인터넷 구조 및 간단 웹사이트 깃허브 배포 실습<br>• 상담 신청 내역 구글 시트 연동 실습 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/250608_AI%ED%99%9C%EC%9A%A9%EC%8B%A4%EC%A0%84%EB%B0%98_2%EA%B8%B0.pdf) | [▶️](https://www.youtube.com/watch?v=YtR5m6UMQwA) |
 | **제3기** | AI 활용 데이터분석 | 2025.08.17 | • AI 자동화 도구 n8n 소개 및 Zapier/Make 비교<br>• n8n 회원가입 및 카카오 디벨로퍼 앱 연동<br>• Openai 및 카카오 크레덴셜 설정 실습<br>• 상담 내용을 카카오톡 알림 메시지로 자동 전송 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/250817_AI%ED%99%9C%EC%9A%A9%EC%8B%A4%EC%A0%84%EB%B0%983%EA%B8%B0_n8n%20%EC%8B%A4%EC%8A%B5%EA%B5%90%EC%95%88.pdf) | [▶️](https://www.youtube.com/watch?v=7FaF8yJ_-WQ) |
 
-
+<br>
 
 ## 🚀 AI 활용마스터 실전반
 
