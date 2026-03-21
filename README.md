@@ -43,6 +43,7 @@ AI융합 비즈니스포럼 강의 교안 및 영상 아카이브입니다.
 | **제3기** | AI 활용 데이터분석 | 2025.08.17 | • AI 자동화 도구 n8n 소개 및 Zapier/Make 비교<br>• n8n 회원가입 및 카카오 디벨로퍼 앱 연동<br>• Openai 및 카카오 크레덴셜 설정 실습<br>• 상담 내용을 카카오톡 알림 메시지로 자동 전송 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/250817_AI%ED%99%9C%EC%9A%A9%EC%8B%A4%EC%A0%84%EB%B0%983%EA%B8%B0_n8n%20%EC%8B%A4%EC%8A%B5%EA%B5%90%EC%95%88.pdf) | [▶️](https://www.youtube.com/watch?v=7FaF8yJ_-WQ) |
 
 
+
 ## 🚀 AI 활용마스터 실전반
 
 | 기수 | 강의명 | 날짜 | 주요 내용 상세 | PDF 교안 | 유튜브 영상 |
