@@ -66,9 +66,9 @@ AI & 데이터분석 강의 교안 및 영상 아카이브입니다.
 
 | 표지 | 발행일 | 도서명 | 출판사 | 비고 |
 |:---:|:---:|:---|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/63e71941-682a-4017-a59d-2690c1906c84" width="100"> | 2025.07.24 | AI 자동화의 끝판왕! n8n을 활용한 업무혁신 | 부크크 | 3인 공저 (POD) |
-| <img src="https://github.com/user-attachments/assets/dad64580-ff32-436f-936c-b36aaf360d99" width="100"> | 2024.11.30 | 생성형 AI 시대의 창의와 혁신 | 교보문고 퍼플 | 10인 공저 (POD) |
-| <img src="https://github.com/user-attachments/assets/bfdcc3bd-53fa-40fc-b759-b97512d5c5cd" width="100"> | 2024.06.24 | 일반인을 위한 인공지능과 데이터 리터러시 | 교보문고 퍼플 | POD |
-| <img src="https://github.com/user-attachments/assets/303e9e4d-ca8b-4d79-a6c4-2ff0a23b4fce" width="100"> | 2024.04.04 | All-In-One 생성형 AI 활용 전략 | 엠오브에스 | 5인 공저 (전자책) |
-| <img src="https://github.com/user-attachments/assets/0c85c7a2-084f-45b7-931a-d547dc38410b" width="100"> | 2023.05.17 | 챗GPT로 데이터분석 마스터하기 | 디즈비즈북스 | 3인 공저 (전자책) |
-| <img src="https://github.com/user-attachments/assets/156ae88a-714a-47b6-992d-5548c235181c" width="100"> | 2018.01.29 | 성장하는 기업의 5가지 조건 | 한국경제신문i | 4인 공저 |
+| <img src="https://github.com/user-attachments/assets/156ae88a-714a-47b6-992d-5548c235181c" width="100"> | 2025.07.24 | AI 자동화의 끝판왕! n8n을 활용한 업무혁신 | 부크크 | 3인 공저 (POD) |
+| <img src="https://github.com/user-attachments/assets/bfdcc3bd-53fa-40fc-b759-b97512d5c5cd" width="100"> | 2024.11.30 | 생성형 AI 시대의 창의와 혁신 | 교보문고 퍼플 | 10인 공저 (POD) |
+| <img src="https://github.com/user-attachments/assets/303e9e4d-ca8b-4d79-a6c4-2ff0a23b4fce" width="100"> | 2024.06.24 | 일반인을 위한 인공지능과 데이터 리터러시 | 교보문고 퍼플 | POD |
+| <img src="https://github.com/user-attachments/assets/dad64580-ff32-436f-936c-b36aaf360d99" width="100"> | 2024.04.04 | All-In-One 생성형 AI 활용 전략 | 엠오브에스 | 5인 공저 (전자책) |
+| <img src="https://github.com/user-attachments/assets/63e71941-682a-4017-a59d-2690c1906c84" width="100"> | 2023.05.17 | 챗GPT로 데이터분석 마스터하기 | 디즈비즈북스 | 3인 공저 (전자책) |
+| <img src="https://github.com/user-attachments/assets/0c85c7a2-084f-45b7-931a-d547dc38410b" width="100"> | 2018.01.29 | 성장하는 기업의 5가지 조건 | 한국경제신문i | 4인 공저 |
