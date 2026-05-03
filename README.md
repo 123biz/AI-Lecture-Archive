@@ -10,6 +10,16 @@ AI & 데이터분석 강의 교안 및 영상 아카이브입니다.
 
 <br>
 
+## 🎓 AI융합비즈니스포럼 AI 활용마스터 실전반 (1기 ~ 3기)
+
+| 기수 | 강의명 | 날짜 | 주요 내용 상세 | PDF 교안 | 유튜브 영상 |
+| :---: | :---: | :---: | :--- | :---: | :---: |
+| **제1기** | AI 활용 실전 | 2024.12.09 | • 엑셀 매크로 및 챗GPT 활용 VBA 코드 작성<br>• 구글 유튜브 API 연동 및 인증정보 세팅<br>• Google Apps Script (GAS) 코드 활용 실습<br>• 키워드 기준 유튜브 자동목록 만들기 실습 | - | [▶️](https://www.youtube.com/watch?v=8-5q1wXGzbY) |
+| **제2기** | AI 활용 실전 | 2025.06.08 | • 챗GPT 활용 PDF 자동완성 및 메일 발송 자동화<br>• 파이썬 파일(.py)과 주피터 노트북(.ipynb) 차이 이해<br>• 인터넷 구조 및 간단 웹사이트 깃허브 배포 실습<br>• 상담 신청 내역 구글 시트 연동 실습 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/250608_AI%ED%99%9C%EC%9A%A9%EC%8B%A4%EC%A0%84%EB%B0%98_2%EA%B8%B0.pdf) | [▶️](https://www.youtube.com/watch?v=YtR5m6UMQwA) |
+| **제3기** | AI 활용 실전 | 2025.08.17 | • AI 자동화 도구 n8n 소개 및 Zapier/Make 비교<br>• n8n 회원가입 및 카카오 디벨로퍼 앱 연동<br>• Openai 및 카카오 크레덴셜 설정 실습<br>• 상담 내용을 카카오톡 알림 메시지로 자동 전송 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/250817_AI%ED%99%9C%EC%9A%A9%EC%8B%A4%EC%A0%84%EB%B0%983%EA%B8%B0_n8n%20%EC%8B%A4%EC%8A%B5%EA%B5%90%EC%95%88.pdf) | [▶️](https://www.youtube.com/watch?v=7FaF8yJ_-WQ) |
+
+<br>
+
 ## 🎓 AI융합비즈니스포럼 AI융합전문가 과정 (1기 ~ 10기)
 
 | 기수 | 강의명 | 날짜 | 주요 내용 상세 | PDF 교안 | 유튜브 영상 |
@@ -34,16 +44,6 @@ AI & 데이터분석 강의 교안 및 영상 아카이브입니다.
 | **제9기** | 심화과정 | 2024.10.27 | • 척도의 개념 이해 및 머신러닝 분석 5단계<br>• 회귀/분류 분석 결과 및 성능 지표 이해<br>• Confusion Matrix 및 각종 점검 요인<br>• 유튜브 자동목록 생성 실습 (Google Sheets) | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/241027_AI%EC%9C%B5%ED%95%A9%EC%A0%84%EB%AC%B8%EA%B0%809%EA%B8%B0_8%EC%B0%A8%EC%8B%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.pdf) | - |
 | **제10기** | 기초과정 | 2025.02.02 | • Transformer 및 챗GPT 탄생 배경 이해<br>• 데이터 모델링 및 DB 구축 예시 실습<br>• 챗GPT 활용 데이터분석 (CNC 가공, 선형계획법)<br>• 유튜브 자동목록 생성 실습 (Google Sheets) | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/250202_AI%EC%9C%B5%ED%95%A9%EC%A0%84%EB%AC%B8%EA%B0%8010%EA%B8%B0_4%EC%B0%A8%EC%8B%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.pdf) | - |
 | **제10기** | 심화과정 | 2025.03.02 | • 인터넷과 웹 구조 및 SEO 기초 이해<br>• 지도/비지도학습, 과소/과대적합 등 기초 이론<br>• 분류/회귀 분석 및 Confusion Matrix 지표 이해<br>• 챗GPT 활용 분류/회귀 실습 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/250302_AI%EC%9C%B5%ED%95%A9%EC%A0%84%EB%AC%B8%EA%B0%8010%EA%B8%B0_8%EC%B0%A8%EC%8B%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.pdf) | - |
-
-<br>
-
-## 🎓 AI융합비즈니스포럼 AI 활용마스터 실전반 (1기 ~ 3기)
-
-| 기수 | 강의명 | 날짜 | 주요 내용 상세 | PDF 교안 | 유튜브 영상 |
-| :---: | :---: | :---: | :--- | :---: | :---: |
-| **제1기** | AI 활용 실전 | 2024.12.09 | • 엑셀 매크로 및 챗GPT 활용 VBA 코드 작성<br>• 구글 유튜브 API 연동 및 인증정보 세팅<br>• Google Apps Script (GAS) 코드 활용 실습<br>• 키워드 기준 유튜브 자동목록 만들기 실습 | - | [▶️](https://www.youtube.com/watch?v=8-5q1wXGzbY) |
-| **제2기** | AI 활용 실전 | 2025.06.08 | • 챗GPT 활용 PDF 자동완성 및 메일 발송 자동화<br>• 파이썬 파일(.py)과 주피터 노트북(.ipynb) 차이 이해<br>• 인터넷 구조 및 간단 웹사이트 깃허브 배포 실습<br>• 상담 신청 내역 구글 시트 연동 실습 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/250608_AI%ED%99%9C%EC%9A%A9%EC%8B%A4%EC%A0%84%EB%B0%98_2%EA%B8%B0.pdf) | [▶️](https://www.youtube.com/watch?v=YtR5m6UMQwA) |
-| **제3기** | AI 활용 실전 | 2025.08.17 | • AI 자동화 도구 n8n 소개 및 Zapier/Make 비교<br>• n8n 회원가입 및 카카오 디벨로퍼 앱 연동<br>• Openai 및 카카오 크레덴셜 설정 실습<br>• 상담 내용을 카카오톡 알림 메시지로 자동 전송 | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/250817_AI%ED%99%9C%EC%9A%A9%EC%8B%A4%EC%A0%84%EB%B0%983%EA%B8%B0_n8n%20%EC%8B%A4%EC%8A%B5%EA%B5%90%EC%95%88.pdf) | [▶️](https://www.youtube.com/watch?v=7FaF8yJ_-WQ) |
 
 <br>
 
