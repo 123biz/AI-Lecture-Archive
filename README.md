@@ -6,7 +6,7 @@ AI & 데이터분석 강의 교안 및 영상 아카이브입니다.
 
 | 기수 | 강의명 | 날짜 | 주요 내용 상세 | PDF 교안 | 유튜브 영상 |
 | :---: | :---: | :---: | :--- | :---: | :---: |
-| **제1기** | No코드로<br>App과 Backend 핸들링<br>(5주차) | 2026.05.03 | • PBL(Project/Problem-Based-Learning) 개념 정리<br>• CLI 개념/종류 및 Python IDE Stratesy<br>• AI 코딩 에이전트 패러다임 및 모던 웹 개발 청사진<br>• Morden Frontend Deployment Stratesy<br>• Supabase Architecture Blueprint | | |
+| **제1기** | No코드로<br>App과 Backend 핸들링<br>(5주차) | 2026.05.03 | • PBL(Project/Problem-Based-Learning) 개념 정립<br>• CLI 개념/종류 및 Python IDE Stratesy<br>• AI 코딩 에이전트 패러다임 및 모던 웹 개발 청사진<br>• Morden Frontend Deployment Stratesy<br>• Supabase Architecture Blueprint | | |
 
 <br>
 
