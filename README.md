@@ -6,6 +6,13 @@ AI & 데이터분석 강의 교안 및 영상 아카이브입니다.
 > [![Notion](https://img.shields.io/badge/Notion_포트폴리오_보러가기-000000?style=for-the-badge&logo=notion&logoColor=white)](https://ruby-beard-167.notion.site/30b5123b4e30809fb1b8c286db34808c?v=30b5123b4e30809a999f000c015066cb)
 
 ---
+## 🎓 AI 에이전트 마스터 과정
+
+| 기수 | 강의명 | 날짜 | 주요 내용 상세 | PDF 교안 | 유튜브 영상 |
+| :---: | :---: | :---: | :--- | :---: | :---: |
+| **제1기** | AI 모델 웹통합 및 배 | 2026.05.03 | • PBL(Project/Problem Based Learning) 개념 정리<br>• CLI 개념/종류 및 Python IDE Stratesy<br>• AI 코딩 에이전트 패러다임 및 웹 개발 청사진<br>• Morden Frontend Deployment Stratesy<br>• Supabase Architecture Blueprint | [📄](https://github.com/123biz/AI-Lecture-Archive/blob/main/230917_AI%EC%9C%B5%ED%95%A9%EC%A0%84%EB%AC%B8%EA%B0%80%EA%B8%B0%EC%B4%88%EA%B3%BC%EC%A0%95_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D_v1.0.pdf) | [▶️](https://www.youtube.com/watch?v=bjrk-9-Q8XA) |
+
+<br>
 
 ## 🎓 AI융합비즈니스포럼 AI융합전문가 과정 (1기 ~ 10기)
 
