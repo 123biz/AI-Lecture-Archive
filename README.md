@@ -7,7 +7,7 @@ AI & 데이터분석 강의 교안 및 영상 아카이브입니다.
 | 기수 | 강의명 | 날짜 | 주요 내용 상세 | PDF 교안 | 유튜브 영상 |
 | :---: | :---: | :---: | :--- | :---: | :---: |
 | &nbsp; **제1기** &nbsp; | No코드로<br>App과 Backend 핸들링<br>(5주차) | 2026.05.03 | • PBL(Project/Problem-Based-Learning) 개념 정립<br>• CLI 개념/종류 및 Python IDE Stratesy<br>• AI 코딩 에이전트 패러다임 및 모던 웹 개발 청사진<br>• Morden Frontend Deployment Stratesy<br>• Supabase Architecture Blueprint |  [📄](https://drive.google.com/file/d/1KVOs1YKqzTjxT9u7MothySsqnBrQ8Oom/view?usp=sharing) |
-| &nbsp; **제2기** &nbsp; | No코드로<br>App과 Backend 핸들링<br>(4주차) | 2026.07.05 | • 2026 AI 생태계 구조 조망<br>• Supabase DB 완벽 이해하기: Zero to One<br>• 바이브 코딩을 위한 Google Antigravity 활용<br>• 5분 만에 끝내는 완벽한 웹 배포 Netlify Drop |  [📄](https://drive.google.com/file/d/1pmBEcy5-TULzIGHnsmgw_q1FqsMIBnKI/view?usp=sharing) |
+| &nbsp; **제2기** &nbsp; | No코드로<br>App과 Backend 핸들링<br>(4주차) | 2026.07.05 | • 2026 AI 생태계 구조 조망<br>• Supabase DB 완벽 이해하기: Zero to One<br>• 바이브 코딩을 위한 Google Antigravity 활용<br>• 5분 만에 끝내는 완벽한 웹 배포 Netlify |  [📄](https://drive.google.com/file/d/1pmBEcy5-TULzIGHnsmgw_q1FqsMIBnKI/view?usp=sharing) |
 
 <br>
 
