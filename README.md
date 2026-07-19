@@ -1,4 +1,3 @@
-<img width="294" height="411" alt="책표지_김부장의 두 번째 명함" src="https://github.com/user-attachments/assets/c9d27f6f-7caf-43b1-a829-ee5d7f3220b7" />
 # 📚 AI-Lecture-Archive
 AI & 데이터분석 강의 교안 및 영상 아카이브입니다.
 
