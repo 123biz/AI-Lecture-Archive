@@ -2,11 +2,11 @@
 AI & 데이터분석 강의 교안 및 영상 아카이브입니다.
 
 ---
-## 🎓 AI 에이전트 마스터 과정
+## 🎓 AI 제조혁신 코디네이터/마이스터 양성과정
 
 | 기수 | 강의명 | 날짜 | 주요 내용 상세 | PDF 교안 | 유튜브 영상 |
 | :---: | :---: | :---: | :--- | :---: | :---: |
-| **제1기** | No코드로<br>App과 Backend 핸들링<br>(5주차) | 2026.05.03 | • PBL(Project/Problem-Based-Learning) 개념 정립<br>• CLI 개념/종류 및 Python IDE Stratesy<br>• AI 코딩 에이전트 패러다임 및 모던 웹 개발 청사진<br>• Morden Frontend Deployment Stratesy<br>• Supabase Architecture Blueprint |  [📄](https://drive.google.com/file/d/1KVOs1YKqzTjxT9u7MothySsqnBrQ8Oom/view?usp=sharing) |
+| **제1기** | AI 제조혁신 컨설턴트 과정 | 2026.07.24<br>2026.07.31 | • Terminal과 CLI vs GUI<br>• 컴퓨터 Language, Python & IDE<br>• 챗GPT가 나오기까지 언어모델 발전과정<br>• Frontend, Backend & Fullstack<br>• AI 생태계 및 3대 AI 도 |  [📄](https://meister-aicamp.vercel.app/) |
 | **제2기** | No코드로<br>App과 Backend 핸들링<br>(4주차) | 2026.07.05 | • 2026 AI 생태계 구조 조망<br>• Supabase DB 완벽 이해하기: Zero to One<br>• 바이브 코딩을 위한 Google Antigravity 활용<br>• 5분 만에 끝내는 완벽한 웹 배포 Netlify/drop<br>• PWA 앱 실전 제작, 배포 및 설치 |  [📄](https://drive.google.com/file/d/1pmBEcy5-TULzIGHnsmgw_q1FqsMIBnKI/view?usp=sharing) |
 
 <br>
