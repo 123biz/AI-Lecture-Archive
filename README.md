@@ -4,9 +4,9 @@ AI & 데이터분석 강의 교안 및 영상 아카이브입니다.
 ---
 ## 🎓 AI 제조혁신 코디네이터/마이스터 양성과정
 
-| 기수 | 강의명 | 날짜 | 주요 내용 상세 | PDF 교안 | 유튜브 영상 |
+| 기수 | 강의명 | 날짜 | 주요 내용 상세 | PDF 교안 | 비고 |
 | :---: | :---: | :---: | :--- | :---: | :---: |
-| **제1기** | AI 제조혁신 컨설턴트 과정<br>32시간/4일 | 2026.07.24 ~ 07.25<br>2026.07.31 ~ 08.01 | • Terminal, CLI vs GUI, Language, IDE<br>• 챗GPT & AI 생태계, 3대 AI 도구<br>• Git vs Github, 클로드(코드)의 사용법 3X3<br>• Vanilla 웹앱 & 배포 프로세스 <br>• Database, PostgreSQL & Supabase <br>• Node, React/VITE, Git Commit & Push|  [📄](https://meister-aicamp.vercel.app/) pw:wlehtk31*|
+| **제1기** | AI 제조혁신 컨설턴트 과정<br>32시간/4일 | 2026.07.24 ~ 07.25<br>2026.07.31 ~ 08.01 | • Terminal, CLI vs GUI, Language, IDE<br>• 챗GPT & AI 생태계, 3대 AI 도구<br>• Git vs Github, 클로드(코드)의 사용법 3X3<br>• Vanilla 웹앱 & 배포 프로세스 <br>• Database, PostgreSQL & Supabase <br>• Node, React/VITE, Git Commit & Push|  [📄](https://meister-aicamp.vercel.app/) | pw:wlehtk31* |
 | **제2기** | AI 제조혁신 컨설턴트 과정<br>32시간/4일 | 2026.08.22 ~ 08.23<br>2026.08.29 ~ 08.30 | • Terminal, CLI vs GUI, Language, IDE<br>• 챗GPT & AI 생태계, 3대 AI 도구<br>• Git vs Github, 클로드(코드)의 사용법 3X3<br>• Vanilla 웹앱 & 배포 프로세스 <br>• Database, PostgreSQL & Supabase <br>• Node, React/VITE, Git Commit & Push|  [📄](https://meister-aicamp.vercel.app/) |
 <br>
 
